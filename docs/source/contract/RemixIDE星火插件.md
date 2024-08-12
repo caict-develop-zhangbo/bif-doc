@@ -1,14 +1,14 @@
-# 7.Remix合约IDE星火插件
+# 6.Remix合约IDE星火插件
 
-## 7.1 简介
+## 6.1 简介
 
 Remix 是用于以太坊智能合约开发的Web端集成开发环境 (IDE)。由于其操作简单、功能强大，成为开发者学习以太坊智能合约开发的首要工具，在以太坊生态中占据很重要的一席之地。
 
 Remix合约IDE星火插件是“星火·链网”研发团队联合Remix中文社区，基于Remix研发的IDE插件，支持“星火·链网”智能合约的编辑、部署和调用。其具备三大优势：网页可访问、可视化编程和兼容以太坊生态。该插件提供了网页可访问的开发环境，使得开发者无需复杂的本地设置，即可在任何地点通过互联网进行智能合约的编译、部署和调用。同时，借助Remix的可视化编程界面，开发者可以更加直观、便捷地在“星火·链网”上开发和测试使用Solidity和JavaScript语言编写的智能合约。另外，这一插件的设计兼容以太坊生态，为熟悉以太坊开发环境的开发者提供了平滑过渡，进一步提升了开发效率。
 
-## 7.2 使用说明
+## 6.2 使用说明
 
-### 7.2.1 访问Remix
+### 6.2.1 访问Remix
 
 remix官方地址：[https://remix.ethereum.org](https://remix.ethereum.org)
 
@@ -16,7 +16,7 @@ remix 国内镜像：[https://remix.learnblockchain.cn](https://remix.learnblock
 
 <img src="../_static/images/image-20231228164849692.png" alt="image-20231228164849692" style="zoom: 33%;" />
 
-### 7.2.2 安装星火插件
+### 6.2.2 安装星火插件
 
 点击插件选型，会出现插件搜索框，在插件搜索框输入“星火链网”，会出现三个插件，分别点击启用，即可完成Remix合约IDE星火插件的安装。
 
@@ -30,7 +30,7 @@ remix 国内镜像：[https://remix.learnblockchain.cn](https://remix.learnblock
 
 
 
-### 7.2.3  创建合约项目
+### 6.2.3  创建合约项目
 
 第一步，点击文件浏览器
 
@@ -65,7 +65,7 @@ remix 国内镜像：[https://remix.learnblockchain.cn](https://remix.learnblock
 
 <img src="../_static/images/image-20240103112548749.png" alt="image-20240103112548749" style="zoom:33%;" />
 
-### 7.2.4  用星火插件编译部署调用Solidity合约
+### 6.2.4  用星火插件编译部署调用Solidity合约
 
 - 编译solidity合约
 
@@ -150,7 +150,7 @@ remix 国内镜像：[https://remix.learnblockchain.cn](https://remix.learnblock
 
      <img src="../_static/images/bytes-to-hex.png" alt="bytes-to-hex" style="zoom: 67%;" />
 
-### 7.2.5 用星火插件部署调用js合约
+### 6.2.5 用星火插件部署调用js合约
 
 第一步，点击js合约插件按钮
 

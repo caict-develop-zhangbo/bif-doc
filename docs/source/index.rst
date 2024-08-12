@@ -15,7 +15,7 @@
 
 .. toctree::
    :maxdepth: 1
-   :caption:  进行智能合约开发
+   :caption:  智能合约开发
    :glob:
 
    contract/智能合约开发整体介绍
@@ -50,6 +50,7 @@
    manage/如何设计上链服务
    manage/如何进行账号权限托管
    manage/如何解析交易结构
+   manage/如何实现跨链
 
 .. toctree::
    :maxdepth: 1
